@@ -1,0 +1,5 @@
+string data
+int8 lin_vel
+int8 ang_vel
+---
+int8 result
